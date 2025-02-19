@@ -1,0 +1,29 @@
+.experience-container {
+    /* Gaya umum untuk kontainer utama */
+  }
+  
+  .experience-list {
+    /* Gaya untuk daftar item experience */
+  }
+  
+  .experience-item {
+    margin-bottom: 20px; /* Spasi antar item */
+  }
+  
+  .experience-item h3 {
+    /* Gaya untuk judul experience */
+  }
+  
+  .progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #e0e0e0; /* Warna latar belakang progress bar */
+    border-radius: 5px; /* Bentuk bulat di ujung progress bar */
+    overflow: hidden; /* Mencegah progress bar keluar dari batas */
+  }
+  
+  .progress {
+    height: 100%;
+    background-color: #f0ad4e; /* Warna progress bar */
+    border-radius: 5px; /* Bentuk bulat di ujung progress bar */
+  }
